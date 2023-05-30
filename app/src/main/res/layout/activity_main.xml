@@ -63,7 +63,8 @@
 
         <Button
             style="@style/buttonOperator"
-            android:text="/"/>
+            android:text="&#247;"
+            android:textSize="30dp"/>
 
     </LinearLayout>
 
@@ -83,7 +84,8 @@
 
         <Button
             style="@style/buttonOperator"
-            android:text="x" />
+            android:text="x"
+            android:textSize="20dp"/>
 
     </LinearLayout>
 
@@ -103,7 +105,8 @@
 
         <Button
             style="@style/buttonOperator"
-            android:text="-" />
+            android:text="-"
+            android:textSize="30dp"/>
 
     </LinearLayout>
 
