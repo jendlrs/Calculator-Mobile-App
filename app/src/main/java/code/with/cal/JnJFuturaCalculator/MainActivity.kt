@@ -1,4 +1,4 @@
-package code.with.cal.kotlincalculatorapp
+package code.with.cal.JnJFuturaCalculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
