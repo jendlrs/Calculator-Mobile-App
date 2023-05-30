@@ -63,7 +63,7 @@
 
         <Button
             style="@style/buttonOperator"
-            android:text="&#247;"
+            android:text="÷"
             android:textSize="30dp"/>
 
     </LinearLayout>
